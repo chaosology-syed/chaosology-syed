@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RABI!</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
+<img align="right" alt="Coding" width="400" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosology-syed&label=Profile%20views&color=0e75b6&style=flat" alt="chaosology-syed" /> </p>
 
 - 🔭 I’m currently working on **Application Development**
@@ -38,7 +38,7 @@
 <p><a href="linkedin.com/in/rabia-abubackar-38213224b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/rabiaabubackar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> <a href="https://www.facebook.com/rabiaabubackar/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a>  <a href="https://www.github.com/chaosology-syed/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a>
 </p>
 
-## Statistics:
+## 📈 Statistics:
 
 <div align="center">
 
