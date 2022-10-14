@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rabiaabubackar61@gmail.com**
 
-- ⚡ Fun fact **I spend more than 9 hrs for hearing music**
+- ⚡ Fun fact **I spend more than 9 hrs for hearing music per day**
 
 ## 🛠️ Technologies and Tools I use:
 
