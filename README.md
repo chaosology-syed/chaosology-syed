@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Anything**
+<!-- - 💬 Ask me about **Anything** -->
 
 - 📫 How to reach me **rabiaabubackar61@gmail.com**
 
