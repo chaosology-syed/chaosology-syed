@@ -3,15 +3,17 @@
 <img align="right" alt="Coding" width="400" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosology-syed&label=Profile%20views&color=0e75b6&style=flat" alt="chaosology-syed" /> </p>
 
-- 🔭 I’m currently working on **Application Development**
+- 🔭 I’m currently working on `Application Development`
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning `ReactJS`
 
-- 💬 Ask me about **Technology And Networking** 
+- 💬 Ask me about `Anything` **except** `Maths` 
+
+- 🤔 I’m looking for help with `Competitive Programming`
 
 - 📫 How to reach me **rabiaabubackar61@gmail.com**
 
-- ⚡ Fun fact **I love to hear music more than 8 hrs a day**
+- ⚡ Fun fact `I love to hear music more than 8 hrs a day`
 
 ## 🛠️ Technologies and Tools I use:
 
