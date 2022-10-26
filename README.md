@@ -31,7 +31,7 @@
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="postman" src="https://img.shields.io/badge/-vscode-000000?style=flat-square&logo=visual-studio-code&logoColor=2BA1F1" height="25px"/>
+<img alt="vscode" src="https://img.shields.io/badge/-vscode-000000?style=flat-square&logo=visual-studio-code&logoColor=2BA1F1" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
