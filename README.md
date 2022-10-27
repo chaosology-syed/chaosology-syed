@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RABIA!</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="400" src="./601014116770475.6068beff4640a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosology-syed&label=Profile%20views&color=0e75b6&style=flat" alt="chaosology-syed" /> </p>
 
 - 🔭 I’m currently working on `Application Development`
