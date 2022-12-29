@@ -63,8 +63,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaosology-syed&theme=nord)](https://github.com/chaosology-syed)
 
-### Graph
 
-[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=chaosology-syed&theme=nord)](https://activity-graph.herokuapp.com/graph?username=chaosology-syed&theme=nord)
 
 </div>
