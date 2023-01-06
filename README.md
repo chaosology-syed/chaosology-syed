@@ -26,7 +26,8 @@
 <p>
 <img alt="C" src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=5968BA" height="25px"/>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=F44336" height="25px"/>
+<img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
+<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="Angularjs" src="https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular&logoColor=white" height="25px"/>
