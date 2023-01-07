@@ -5,7 +5,7 @@
 
  <br/> -->
 <h1 align="center">Hi 👋, I'm RABIA! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
-<h3 align="center">A passionate Software developer from India</h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
+<h3 align="center">A passionate Software developer from India<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"></h3>
 <img align="right" alt="Coding" width="400" src="./601014116770475.6068beff4640a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosology-syed&label=Profile%20views&color=0e75b6&style=flat" alt="chaosology-syed" /> </p>
 
