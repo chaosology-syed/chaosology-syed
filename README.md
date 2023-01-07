@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact `I love to hear music more than 8 hrs a day`
 
+
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -52,6 +54,8 @@
 ## 📈 Statistics:
 
 <div align="center">
+  
+  <p><img src="https://freight.cargo.site/t/original/i/c8c6be3c83b58340fd15976936914d073a9b76479156e3908d40decc0a0891c1/fcabloyalGIF2s.gif" width="300"></p>
 
 ### Github Stats
 
