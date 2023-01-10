@@ -4,7 +4,7 @@
 </div>
 
  <br/> -->
-<h1 align="center">Hi 👋, I'm RABIA! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="100"></h1>
+<h1 align="center">Hi 👋, I'm RABIA! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150"></h1>
 <h2 align="center">A passionate Software Developer From India</h2>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
 <img align="right" alt="Coding" width="400" src="./601014116770475.6068beff4640a.gif"/>
@@ -16,7 +16,7 @@
 
 
 
-- ⚡<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150">
+- ⚡
 
 
   ```javascript	
