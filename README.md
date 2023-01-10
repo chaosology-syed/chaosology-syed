@@ -5,7 +5,7 @@
 
  <br/> -->
 <h1 align="center">Hi 👋, I'm RABIA! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="100"></h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h2 align="center">A passionate Software Developer From India</h2>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
 <img align="right" alt="Coding" width="400" src="./601014116770475.6068beff4640a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosology-syed&label=Profile%20views&color=0e75b6&style=flat" alt="chaosology-syed" /> </p>
@@ -63,7 +63,7 @@
 
 <div align="center">
   
-  <p><img src="https://freight.cargo.site/t/original/i/c8c6be3c83b58340fd15976936914d073a9b76479156e3908d40decc0a0891c1/fcabloyalGIF2s.gif" width="300"></p>
+  <p><img src="https://freight.cargo.site/t/original/i/c8c6be3c83b58340fd15976936914d073a9b76479156e3908d40decc0a0891c1/fcabloyalGIF2s.gif" width="200"></p>
 
 ### Github Stats
 
