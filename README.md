@@ -63,7 +63,7 @@
 
 <div align="center">
   
-  <p><img src="https://freight.cargo.site/t/original/i/c8c6be3c83b58340fd15976936914d073a9b76479156e3908d40decc0a0891c1/fcabloyalGIF2s.gif" width="200"></p>
+  <p><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="200" /></p>
 
 ### Github Stats
 
