@@ -21,13 +21,14 @@
 
   ```javascript	
 	class Rabia Abubackar extends me {
-	Myself() {
+	WhoAmI() {
 	this.Pronouns: "she" | "her",
 	this.CurrentlyWorking: ["Application Development"],
 	this.CurrentlyLearning: ["ReactJS"],
     this.Achievement:["Gold Medalist"],
 	this.ReachMe:["rabiaabubackar61@gmail.com"],
     this.FunFact:["More than 8 hrs listening music"],
+    this.Hobbies:["Doddling","Writing","Designing","Music"],
 	}
 	}
 	```
