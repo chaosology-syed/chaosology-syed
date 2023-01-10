@@ -4,25 +4,33 @@
 </div>
 
  <br/> -->
-<h1 align="center">Hi 👋, I'm RABIA! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
+<h1 align="center">Hi 👋, I'm RABIA! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="100"></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
 <img align="right" alt="Coding" width="400" src="./601014116770475.6068beff4640a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaosology-syed&label=Profile%20views&color=0e75b6&style=flat" alt="chaosology-syed" /> </p>
 
-- 🔭 I’m currently working on `Application Development`
-
-- 🌱 I’m currently learning `ReactJS`
-
-- 💬 Ask me about `Anything` **except** `Maths` 
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 📫 How to reach me **rabiaabubackar61@gmail.com**
-
-- ⚡ Fun fact `I love to hear music more than 8 hrs a day`
 
 
+ 
+
+
+
+- ⚡<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150">
+
+
+  ```javascript	
+	class Rabia Abubackar extends me {
+	Myself() {
+	this.Pronouns: "she" | "her",
+	this.CurrentlyWorking: ["Application Development"],
+	this.CurrentlyLearning: ["ReactJS"],
+    this.Achievement:["Gold Medalist"],
+	this.ReachMe:["rabiaabubackar61@gmail.com"],
+    this.FunFact:["More than 8 hrs listening music"],
+	}
+	}
+	```
 
 ## 🛠️ Technologies and Tools I use:
 
