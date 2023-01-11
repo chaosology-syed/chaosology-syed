@@ -68,15 +68,15 @@
 
 ### Github Stats
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=chaosology-syed&count_private=true&show_icons=true&theme=nord)](https://github.com/chaosology-syed)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=chaosology-syed&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/chaosology-syed)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaosology-syed&show_icons=true&layout=compact&&theme=nord)](https://github.com/chaosology-syed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaosology-syed&show_icons=true&layout=compact&&theme=tokyonight)](https://github.com/chaosology-syed)
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaosology-syed&theme=nord)](https://github.com/chaosology-syed)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaosology-syed&theme=tokyonight)](https://github.com/chaosology-syed)
 
 
 
